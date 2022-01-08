@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color:cyan
+   
+}
+h1 {
+    color:red;font-size:40px;
+    
+}
+h2 {color: blue;font: size 30px;}
+
+ul {display: inline-block;}
+
+ol {display: inline-block;}
